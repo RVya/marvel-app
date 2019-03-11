@@ -1,6 +1,6 @@
 {
   "name": "marvel-app",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "main": "app.js",
   "repository": "git@github.com:RVya/marvel-app.git",
   "author": "jiaweiya <jiaweiya@didichuxing.com>",
